@@ -1,0 +1,17 @@
+{
+  "short_name": "Digi Pay",
+  "name": "Digi Pay",
+  "description": "Crypto Wallet",
+  "manifest_version": 3,
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Wallet"
+  },
+  "permissions": [],
+  "icons": {
+    "16": "eth_wallet.png",
+    "48": "eth_wallet.png",
+    "128": "eth_wallet.png"
+  }
+}
